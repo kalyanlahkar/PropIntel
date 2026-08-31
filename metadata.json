@@ -1,0 +1,6 @@
+{
+  "name": "Property Intelligence Platform",
+  "description": "AI-powered property document intelligence, OCR extraction, compliance tracking, and RAG search assistant.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
